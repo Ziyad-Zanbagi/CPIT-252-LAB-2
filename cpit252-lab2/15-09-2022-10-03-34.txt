@@ -1,4 +1,0 @@
-INFO: A new order was created
-INFO: Order info:
-Order number: 101674324
-Date2022-09-15

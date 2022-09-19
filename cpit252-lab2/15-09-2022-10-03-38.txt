@@ -1,6 +1,0 @@
-INFO: A new shipment was created
-INFO: Shipment info:
-Tracking number: 1463381117
-NameAhmed
-Address: 248 NE. Pleasant St. Niceville, FL 32578
-Phone: 123-477-0001
